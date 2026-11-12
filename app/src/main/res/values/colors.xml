@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 浅色配色：墨蓝 + 米白纸张 -->
+    <color name="brand_primary">#355C7D</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_primary_container">#D3E4F3</color>
+    <color name="brand_on_primary_container">#0F2B3F</color>
+    <color name="brand_secondary">#6E7C5B</color>
+    <color name="brand_on_secondary">#FFFFFF</color>
+    <color name="brand_secondary_container">#E4EACF</color>
+    <color name="brand_on_secondary_container">#2F3622</color>
+
+    <color name="app_background">#F6F2EA</color>
+    <color name="app_surface">#FFFDF8</color>
+    <color name="app_on_surface">#2A2A26</color>
+    <color name="app_surface_variant">#E7E1D5</color>
+    <color name="app_on_surface_variant">#6B665B</color>
+    <color name="app_outline">#8C877A</color>
+    <color name="app_outline_variant">#D9D2C4</color>
+
+    <color name="surface_dim">#DCD6C9</color>
+    <color name="surface_bright">#FFFDF8</color>
+    <color name="surface_container_lowest">#FFFFFF</color>
+    <color name="surface_container_low">#FAF6EE</color>
+    <color name="surface_container">#F3EEE4</color>
+    <color name="surface_container_high">#EDE7DB</color>
+    <color name="surface_container_highest">#E6E0D3</color>
+
+    <!-- 护眼（米黄）主题 -->
+    <color name="sepia_primary">#8A6D3B</color>
+    <color name="sepia_on_primary">#FFFFFF</color>
+    <color name="sepia_primary_container">#EBDCBE</color>
+    <color name="sepia_on_primary_container">#3A2D16</color>
+    <color name="sepia_secondary">#6D7E5A</color>
+    <color name="sepia_on_secondary">#FFFFFF</color>
+    <color name="sepia_secondary_container">#E3E7D2</color>
+    <color name="sepia_on_secondary_container">#2E3325</color>
+    <color name="sepia_background">#F1E7D3</color>
+    <color name="sepia_surface">#FBF4E4</color>
+    <color name="sepia_on_surface">#3B3325</color>
+    <color name="sepia_surface_variant">#E5D9C2</color>
+    <color name="sepia_on_surface_variant">#6E6350</color>
+    <color name="sepia_outline">#9C8F79</color>
+    <color name="sepia_outline_variant">#D8CBB2</color>
+    <color name="sepia_surface_dim">#DCD0B8</color>
+    <color name="sepia_surface_bright">#FFFBF0</color>
+    <color name="sepia_container_lowest">#FFFDF7</color>
+    <color name="sepia_container_low">#F7EEDC</color>
+    <color name="sepia_container">#F2E7D2</color>
+    <color name="sepia_container_high">#ECDFC7</color>
+    <color name="sepia_container_highest">#E5D7BD</color>
+
+    <color name="ic_launcher_background">#355C7D</color>
+</resources>

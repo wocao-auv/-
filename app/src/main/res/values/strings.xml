@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记事本</string>
+
+    <string name="search_hint">搜索标题或内容</string>
+    <string name="empty_title">还没有笔记</string>
+    <string name="empty_hint">点击右下角的 + 新建一条笔记</string>
+    <string name="empty_search_title">没有找到相关笔记</string>
+    <string name="empty_search_hint">换个关键字或分类试试</string>
+
+    <string name="fab_new_note">新建笔记</string>
+    <string name="menu_sort">排序</string>
+    <string name="menu_settings">设置</string>
+    <string name="sort_modified">按修改时间</string>
+    <string name="sort_created">按创建时间</string>
+    <string name="sort_title">按标题</string>
+    <string name="menu_backup">备份全部笔记</string>
+    <string name="menu_restore">从备份恢复</string>
+    <string name="menu_export_all">导出全部为文本</string>
+
+    <string name="editor_title_new">新建笔记</string>
+    <string name="editor_title_edit">编辑笔记</string>
+    <string name="editor_title_hint">标题</string>
+    <string name="editor_content_hint">开始输入内容…</string>
+    <string name="editor_category_prefix">分类：%1$s</string>
+    <string name="editor_category_none">分类：未分类</string>
+    <string name="editor_pin">置顶</string>
+    <string name="editor_pinned">已置顶</string>
+    <string name="editor_choose_category">选择分类</string>
+    <string name="editor_custom_category">自定义分类</string>
+    <string name="editor_category_hint">输入分类名称</string>
+    <string name="editor_meta">创建于 %1$s\n最后修改 %2$s</string>
+    <string name="editor_saved">已保存</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_export">导出为文本</string>
+    <string name="menu_delete">删除笔记</string>
+
+    <string name="settings_title">设置</string>
+    <string name="settings_appearance">外观</string>
+    <string name="settings_theme">主题</string>
+    <string name="settings_theme_light">浅色</string>
+    <string name="settings_theme_dark">深色</string>
+    <string name="settings_theme_sepia">护眼（米黄）</string>
+    <string name="settings_theme_system">跟随系统</string>
+    <string name="settings_font_size">正文字号</string>
+    <string name="settings_font_value">%1$d sp</string>
+    <string name="settings_font_preview">预览：记事本让灵感随时被记录。</string>
+    <string name="settings_sort">默认排序</string>
+    <string name="settings_sort_tip">置顶笔记始终排在最前</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_about_content">记事本 1.0\n\n基于 Android NotePad 示例扩展：\n· 笔记时间戳显示\n· 按标题或内容搜索\n· 分类、排序与置顶\n· 主题与字号偏好设置\n· 导出笔记、备份与恢复</string>
+</resources>

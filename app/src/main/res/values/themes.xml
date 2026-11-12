@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.NotePad" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorOnPrimary">@color/brand_on_primary</item>
+        <item name="colorPrimaryContainer">@color/brand_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/brand_on_primary_container</item>
+        <item name="colorSecondary">@color/brand_secondary</item>
+        <item name="colorOnSecondary">@color/brand_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/brand_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/brand_on_secondary_container</item>
+
+        <item name="android:colorBackground">@color/app_background</item>
+        <item name="colorOnBackground">@color/app_on_surface</item>
+        <item name="colorSurface">@color/app_surface</item>
+        <item name="colorOnSurface">@color/app_on_surface</item>
+        <item name="colorSurfaceVariant">@color/app_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/app_on_surface_variant</item>
+        <item name="colorOutline">@color/app_outline</item>
+        <item name="colorOutlineVariant">@color/app_outline_variant</item>
+        <item name="colorSurfaceDim">@color/surface_dim</item>
+        <item name="colorSurfaceBright">@color/surface_bright</item>
+        <item name="colorSurfaceContainerLowest">@color/surface_container_lowest</item>
+        <item name="colorSurfaceContainerLow">@color/surface_container_low</item>
+        <item name="colorSurfaceContainer">@color/surface_container</item>
+        <item name="colorSurfaceContainerHigh">@color/surface_container_high</item>
+        <item name="colorSurfaceContainerHighest">@color/surface_container_highest</item>
+
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+    </style>
+
+    <!-- 护眼主题：始终使用浅色米黄配色 -->
+    <style name="Theme.NotePad.Sepia" parent="Theme.NotePad">
+        <item name="colorPrimary">@color/sepia_primary</item>
+        <item name="colorOnPrimary">@color/sepia_on_primary</item>
+        <item name="colorPrimaryContainer">@color/sepia_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/sepia_on_primary_container</item>
+        <item name="colorSecondary">@color/sepia_secondary</item>
+        <item name="colorOnSecondary">@color/sepia_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/sepia_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/sepia_on_secondary_container</item>
+
+        <item name="android:colorBackground">@color/sepia_background</item>
+        <item name="colorOnBackground">@color/sepia_on_surface</item>
+        <item name="colorSurface">@color/sepia_surface</item>
+        <item name="colorOnSurface">@color/sepia_on_surface</item>
+        <item name="colorSurfaceVariant">@color/sepia_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/sepia_on_surface_variant</item>
+        <item name="colorOutline">@color/sepia_outline</item>
+        <item name="colorOutlineVariant">@color/sepia_outline_variant</item>
+        <item name="colorSurfaceDim">@color/sepia_surface_dim</item>
+        <item name="colorSurfaceBright">@color/sepia_surface_bright</item>
+        <item name="colorSurfaceContainerLowest">@color/sepia_container_lowest</item>
+        <item name="colorSurfaceContainerLow">@color/sepia_container_low</item>
+        <item name="colorSurfaceContainer">@color/sepia_container</item>
+        <item name="colorSurfaceContainerHigh">@color/sepia_container_high</item>
+        <item name="colorSurfaceContainerHighest">@color/sepia_container_highest</item>
+        <item name="android:windowBackground">@color/sepia_background</item>
+    </style>
+</resources>

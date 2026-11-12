@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色配色 -->
+    <color name="brand_primary">#A9C8E6</color>
+    <color name="brand_on_primary">#123047</color>
+    <color name="brand_primary_container">#2B4A66</color>
+    <color name="brand_on_primary_container">#D3E4F3</color>
+    <color name="brand_secondary">#C8CFA9</color>
+    <color name="brand_on_secondary">#2F3622</color>
+    <color name="brand_secondary_container">#454D35</color>
+    <color name="brand_on_secondary_container">#E4EACF</color>
+
+    <color name="app_background">#141412</color>
+    <color name="app_surface">#1C1B18</color>
+    <color name="app_on_surface">#E9E4D9</color>
+    <color name="app_surface_variant">#3B3832</color>
+    <color name="app_on_surface_variant">#C6C0B3</color>
+    <color name="app_outline">#8F8A7E</color>
+    <color name="app_outline_variant">#4A463E</color>
+
+    <color name="surface_dim">#141412</color>
+    <color name="surface_bright">#3B3832</color>
+    <color name="surface_container_lowest">#0F0E0C</color>
+    <color name="surface_container_low">#201F1B</color>
+    <color name="surface_container">#24231F</color>
+    <color name="surface_container_high">#2E2C27</color>
+    <color name="surface_container_highest">#39362F</color>
+</resources>
